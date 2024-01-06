@@ -1,5 +1,5 @@
 # LunaKitty Token 🐱💫
-![LunaKitty Token](images/lunakitty.png)
+![LunaKitty Token](images/lunakitty.JPG)
 ## Overview
 LunaKitty Token is a unique ERC20 cryptocurrency 🪙 designed with specific features tailored for efficiency and user engagement. Named affectionately after Luna, the cat 🐾, this token not only embodies the spirit of innovation but also pays homage to its feline muse.
 
